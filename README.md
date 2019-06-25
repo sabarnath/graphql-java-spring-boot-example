@@ -1,3 +1,6 @@
+# Code Quality:
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4ea36f851d0a4175939b86f869cae720)](https://www.codacy.com/app/sabarnath/graphql-java-spring-boot-example?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sabarnath/graphql-java-spring-boot-example&amp;utm_campaign=Badge_Grade)
+
 # graphql-java-spring-boot-example
 Sample app for my tutorial [Building a GraphQL Server with Spring Boot](https://www.pluralsight.com/guides/java-and-j2ee/building-a-graphql-server-with-spring-boot). 
 
